@@ -5,6 +5,7 @@ This is an Appcelerator Alloy widget to implement a nice "drawer-type" menu on y
 
 
 ![Demo](http://s20.postimg.org/wfxbv3kwd/drawermenu.gif)
+![Demo](https://www.youtube.com/watch?v=svVSim1xils)
 
 This Widget exposes two views: drawermenuview and drawermainview
 
